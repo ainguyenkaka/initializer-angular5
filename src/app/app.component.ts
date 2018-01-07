@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'Welcome';
+  subtitle = 'My projects and demos are open-source and free to use.';
+  email = 'ainguyenkaka@gmail.com';
 }
